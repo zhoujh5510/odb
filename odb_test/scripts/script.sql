@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM trafodion.odb_test.person;

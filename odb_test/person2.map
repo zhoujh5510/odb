@@ -1,0 +1,12 @@
+PID:SEQ:100
+FNAME:DSRAND:input_data/datasets/first_names.txt
+LNAME:DSRAND:input_data/datasets/last_names.txt
+COUNTRY:DSRAND:input_data/datasets/countries.txt
+CITY:DSRAND:input_data/datasets/cities.txt
+BDATE:DRAND:1800:2012
+SEX:LSTRAND:M,F,U
+EMAIL:EMRAND:3:12:5:8:com,edu,org,net
+SALARY:NRAND:9:2
+EMPL:DSRAND:input_data/datasets/fortune500.txt
+NOTES:TXTRAND:20:80:input_data/datasets/lorem_ipsum.txt
+LOADTS:CTSTAMP
